@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 3rem;
+  background-color: #2e4a77;
+  color: rgb(237, 243, 245);
+  margin-bottom: 50px;
+}

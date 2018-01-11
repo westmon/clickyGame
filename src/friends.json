@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "SpongeBob",
+    "image": "https://www.funnypica.com/wp-content/uploads/2012/06/Old-Lady-Smoking.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "value": true
+  },
+  {
+    "id": 1,
+    "name": "Mr. Krabs",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/4/13/enhanced/webdr08/original-20971-1438709368-9.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "value": true
+  },
+  {
+    "id": 2,
+    "name": "Squidward",
+    "image": "https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/blogs/50897/2011/02/55310-46349.jpg?itok=Ma8-OL90",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": true
+  },
+  {
+    "id": 3,
+    "name": "Dexter",
+    "image": "https://s-i.huffpost.com/gen/1344042/images/o-CIGAR-LADY-facebook.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory",
+    "value": true
+  },
+  {
+    "id": 4,
+    "name": "Courage",
+    "image": "https://i.ytimg.com/vi/a8rioiigKOI/maxresdefault.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas",
+    "value": true
+  },
+  {
+    "id": 5,
+    "name": "Doug Funnie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46AJjM9Os1gUXlC8EThFNLjyJ4lhhu683caLKVjjc1dNPMID0aQ",
+    "occupation": "Student",
+    "location": "Bluffington",
+    "value": true
+  },
+  {
+    "id": 6,
+    "name": "Bugs Bunny",
+    "image": "https://www.quiltingboard.com/fbimage.php?u=851&id=102172&e=jpe",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow",
+    "value": true
+  },
+  {
+    "id": 7,
+    "name": "Johnny Bravo",
+    "image": "https://previews.123rf.com/images/raglens/raglens1009/raglens100900020/8100012-old-ladies-share-a-kiss-Stock-Photo.jpg",
+    "occupation": "Ladies Man",
+    "location": "Aron City",
+    "value": true
+  },
+  {
+    "id": 8,
+    "name": "Tommy Pickles",
+    "image": "http://boredomfiles.com/wp-content/uploads/2016/05/03-old-ladies-old-man-birthday-joke-664x443.jpg",
+    "occupation": "Adventurer",
+    "location": "California",
+    "value": true
+  },
+  {
+    "id": 9,
+    "name": "Rocko",
+    "image": "https://i2.wp.com/quotespill.com/wp-content/uploads/2017/06/105346-min.jpg?resize=658%2C698",
+    "occupation": "Cashier",
+    "location": "O-Town, California",
+    "value": true
+  },
+  {
+    "id": 10,
+    "name": "Captain Planet",
+    "image": "https://i1.wp.com/quotespill.com/wp-content/uploads/2017/06/0cef7abc74e1199a1c9f913d0b504721711071ee2ce31b4c074efd2554bb7abf-min.jpg?resize=650%2C488",
+    "occupation": "Superhero",
+    "location": "Earth",
+    "value": true
+  },
+  {
+    "id": 11,
+    "name": "Ickis",
+    "image": "https://i1.wp.com/quotespill.com/wp-content/uploads/2017/06/8ecfeaaad69334198c8c529d6a9a74d1-min.jpg?w=480",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump",
+    "value": true
+  }
+]
